@@ -1,0 +1,97 @@
+.header{
+  background-color: #7C98B3;
+  margin: -8px;
+  padding:2px;
+  border:solid 3px #536B78;
+  color:#1B282F;
+}
+
+.header h1{
+  text-align: center;
+}
+
+
+.nav ul {
+  list-style-type: none;
+  margin: -8px;
+  padding: 0;
+  overflow: hidden;
+  background-color: #7C98B3;
+  width:110%;
+  border:solid 3px #536B78;
+}
+
+.nav li {
+  float: left;
+}
+
+.nav li a {
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  color:#1B282F;
+}
+
+.nav  li a:hover {
+  background-color: #536B78;
+}
+.thispage{
+  border:solid 3px #536B78;
+  padding: 5px;
+  width: 48%;
+  height:150px;
+  float:left;
+}
+.thispage h3{
+  text-align:center;
+}
+body{
+  background-color: #CEE5F2;
+}
+.about{
+   border:solid 3px #536B78;
+  padding: 5px;
+  width: 48%;
+  height:150px;
+  float:right;
+}
+
+.one{
+  border:solid 3px #536B78;
+  padding: 5px;
+  width: 30%;
+  height:150px;
+  float:left;
+  margin-top:15px;
+  color: #152E40;
+}
+.one a{
+  color: #1B282F;
+}
+.two{
+   border:solid 3px #536B78;
+  margin:15px;
+  margin-left:40px;
+  padding: 5px;
+  width: 30%;
+  height:150px;
+  float:left;
+  color: #152E40;
+}
+.two a{
+  color: #1B282F;
+}
+.three{
+   border:solid 3px #536B78;
+  margin-top:15px;
+  padding: 5px;
+  width: 30%;
+  height:150px;
+  float:right;
+  color: #152E40;
+}
+.three a{
+  color: #1B282F;
+}

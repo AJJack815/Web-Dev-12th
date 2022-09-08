@@ -1,0 +1,85 @@
+.header{
+  background-color: #7C98B3;
+  margin: -8px;
+  padding:2px;
+  border:solid 3px #536B78;
+  color:#1B282F;
+}
+
+.header h1{
+  text-align: center;
+  color:
+}
+
+
+.nav ul {
+  list-style-type: none;
+  margin: -8px;
+  padding: 0;
+  overflow: hidden;
+  background-color: #7C98B3;
+  width:110%;
+  border:solid 3px #536B78;
+}
+
+.nav li {
+  float: left;
+}
+
+.nav li a {
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  color:#1B282F;
+}
+
+.nav  li a:hover {
+  background-color: #536B78;
+}
+body{
+  background-color: #CEE5F2;
+}
+.practices h2{
+  padding: 5px;
+  color: #152E40;
+}
+
+.attempt{
+  border:solid 3px #536B78;
+  padding: 5px;
+  width: 30%;
+  height:175px;
+  float:left;
+  margin-top:15px;
+  color: #152E40;
+}
+.attempt a{
+  color: #1B282F;
+}
+.statements{
+  border:solid 3px #536B78;
+  margin:15px;
+  margin-left:40px;
+  padding: 5px;
+  width: 30%;
+  height:175px;
+  float:left;
+  color: #152E40;
+}
+.statements a{
+  color: #1B282F;
+}
+.outputs{
+  border:solid 3px #536B78;
+  margin-top:15px;
+  padding: 5px;
+  width: 30%;
+  height:175px;
+  float:right;
+  color: #152E40;
+}
+.outputs a{
+  color: #1B282F;
+}

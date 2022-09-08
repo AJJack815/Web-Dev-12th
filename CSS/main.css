@@ -1,0 +1,53 @@
+.header{
+  background-color: #7C98B3;
+  margin: -8px;
+  padding:2px;
+  border:solid 3px #536B78;
+  color:#1B282F;
+}
+
+.header h1{
+  text-align: center;
+  color:
+}
+
+
+.nav ul {
+  list-style-type: none;
+  margin: -8px;
+  padding: 0;
+  overflow: hidden;
+  background-color: #7C98B3;
+  width:110%;
+  border:solid 3px #536B78;
+}
+
+.nav li {
+  float: left;
+}
+
+.nav li a {
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  color:#1B282F;
+}
+
+.nav  li a:hover {
+  background-color: #536B78;
+}
+
+body{
+  background-color: #CEE5F2;
+}
+
+.Practice4A{
+  border:solid 3px #536B78;
+  margin-top: 20px;
+  padding: 5px;
+  width: 48%;
+  height:150px;
+  float:left;
+}
