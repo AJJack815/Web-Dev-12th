@@ -32,10 +32,12 @@
   padding: 14px 16px;
   text-decoration: none;
   color:#1B282F;
+  
 }
 
 .nav  li a:hover {
   background-color: #536B78;
+  color:white;
 }
 
 body{
@@ -71,13 +73,17 @@ body{
 .SiteCritques a{
   color: #1B282F;
 }
+.SiteCritques a:hover{
+	color:red;
+}
 
 .RentAPet img{
-height:150px;
-width:50%
+	float:right;
+	height:150px;
+	width:50%
 }
 .RentAPet{
-  border: #536B78 solid 3px;
+border: #536B78 solid 3px;
   height:300px;
   width:25%;
   margin:5px;
@@ -89,6 +95,9 @@ width:50%
 }
 .RentAPet a{
   color: #1B282F;
+}
+.RentAPet a:hover{
+	color:red;
 }
 
 
