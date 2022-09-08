@@ -42,12 +42,27 @@
 body{
   background-color: #CEE5F2;
 }
-
 .Practice4A{
-  border:solid 3px #536B78;
-  margin-top: 20px;
+   border:solid 3px #536B78;
+  margin-top:15px;
   padding: 5px;
-  width: 48%;
+  width: 30%;
   height:150px;
   float:left;
+  color: #152E40;
+}
+.Practice4A a{
+  color: #1B282F;
+}
+.Practice5{
+   border:solid 3px #536B78;
+  margin-top:15px;
+  padding: 5px;
+  width: 30%;
+  height:150px;
+  float:right;
+  color: #152E40;
+}
+.Practice5 a{
+  color: #1B282F;
 }
