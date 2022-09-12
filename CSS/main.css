@@ -44,10 +44,33 @@ body{
 }
 
 .Practice4A{
-  border:solid 3px #536B78;
-  margin-top: 20px;
-  padding: 5px;
-  width: 48%;
-  height:150px;
+border: #536B78 solid 3px;
+  height:200px;
+  width:25%;
+  margin:5px;
+  padding:8px;
+  color: #152E40;
   float:left;
+  margin-left: 35px;
+}
+.Practice4B{
+border: #536B78 solid 3px;
+  height:200px;
+  width:25%;
+  margin:5px;
+  padding:8px;
+  color: #152E40;
+  float:left;
+  margin-left:35px;
+}
+.Practice5{
+border: #536B78 solid 3px;
+  height:200px;
+  width:25%;
+  margin:5px;
+  padding:8px;
+  color: #152E40;
+  float:right;
+  margin-right: 35px;
+  margin-left:35px;
 }
