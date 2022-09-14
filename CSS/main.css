@@ -1,14 +1,14 @@
 .header{
-  background-color: #7C98B3;
+  background-color: #5945B2;
   margin: -8px;
   padding:2px;
-  border:solid 3px #536B78;
-  color:#1B282F;
+  border:solid 3px #402AA1;
+  color:White;
+  overflow:hidden;
 }
 
 .header h1{
   text-align: center;
-  color:
 }
 
 
@@ -17,9 +17,9 @@
   margin: -8px;
   padding: 0;
   overflow: hidden;
-  background-color: #7C98B3;
+  background-color: #7563CA;
   width:110%;
-  border:solid 3px #536B78;
+  border:solid 3px #324481;
 }
 
 .nav li {
@@ -28,22 +28,25 @@
 
 .nav li a {
   display: block;
-  color: black;
+  color:white;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
-  color:#1B282F;
 }
 
 .nav  li a:hover {
-  background-color: #536B78;
+  background-color: #266776;
+  color: white;
 }
 
 body{
-  background-color: #CEE5F2;
+  background-color: white;
+}
+.inclass h2{
+  color:#402AA1;
 }
 .Practice4A{
-border: #536B78 solid 3px;
+border:solid 3px #324481;
   height:200px;
   width:25%;
   margin:5px;
@@ -54,7 +57,7 @@ border: #536B78 solid 3px;
   overflow:scroll;
 }
 .Practice4B{
-border: #536B78 solid 3px;
+border:solid 3px #324481;
   height:200px;
   width:25%;
   margin:5px;
@@ -65,14 +68,14 @@ border: #536B78 solid 3px;
   overflow:scroll;
 }
 .Practice4B a{
-  color: #1B282F;
+  color:#266776;
 }
 
 .Practice4A a{
-  color: #1B282F;
+  color: #266776;
 }
 .Practice5{
-border: #536B78 solid 3px;
+border:solid 3px #324481;
   height:200px;
   width:25%;
   margin:5px;
@@ -84,5 +87,5 @@ border: #536B78 solid 3px;
   overflow:scroll;
 }
 .Practice5 a{
-  color: #1B282F;
+  color: #266776;
 }

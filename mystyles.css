@@ -1,9 +1,9 @@
 .header{
-  background-color: #6978A8;
+  background-color: #5945B2;
   margin: -8px;
   padding:2px;
-  border:solid 3px #324481;
-  color:#1B282F;
+  border:solid 3px #402AA1;
+  color:White;
   overflow:hidden;
 }
 
@@ -17,7 +17,7 @@
   margin: -8px;
   padding: 0;
   overflow: hidden;
-  background-color: #6978A8;
+  background-color: #7563CA;
   width:110%;
   border:solid 3px #324481;
 }
@@ -28,11 +28,10 @@
 
 .nav li a {
   display: block;
-  color: black;
+  color:white;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
-  color:black;
 }
 
 .nav  li a:hover {
@@ -43,59 +42,57 @@
 body{
   background-color: white;
 }
-.Intro{
-  margin: 5px;
-  width: 50%;
-  padding:5px;
-  border: 3px solid #536B78;
-  height:120px;
-  overflow:scroll;
-  box-align:center;
-}
-.Intro h3{
-  color:#1B282F;
-}
-.Intro p{
-  margin-left:8px;
-  margin-bottom:3px;
-  color:#152E40;
-}
-
-.SiteCritques{
-  height:300px;
-  width:25%;
-  border: #536B78 solid 3px;
-  margin:5px;
-  padding:5px;
-  color: #152E40;
-  float:left;
-  overflow:scroll;
-}
-
-.SiteCritques a{
-  color: #1B282F;
-}
-
-img{
-  float:right;
-  height:100px;
-  width:200px;
-  aspect-ratio:auto;
+.intro h2{
+  color:#402AA1;
 }
 .RentAPet{
-  border: #536B78 solid 3px;
-  height:300px;
+border:solid 3px #324481;
+  height:200px;
   width:25%;
   margin:5px;
   padding:8px;
   color: #152E40;
   float:left;
+  margin-left: 35px;
   overflow:scroll;
-  /*
-  background-color:#dde8ef;*/
 }
+.SiteCritques {
+border:solid 3px #324481;
+  height:200px;
+  width:25%;
+  margin:5px;
+  padding:8px;
+  color: #152E40;
+  float:left;
+  margin-left:35px;
+  overflow:scroll;
+}
+.SiteCritques a{
+  color:#266776;
+}
+
 .RentAPet a{
-  color: #1B282F;
+  color: #266776;
 }
 
-
+.RentAPet img{
+	float:right;
+	width: 150px;
+	height:100px;
+}
+/* .Practice5{
+border:solid 3px #324481;
+  height:200px;
+  width:25%;
+  margin:5px;
+  padding:8px;
+  color: #152E40;
+  float:right;
+  margin-right:35px;
+  margin-left:-200px;
+  overflow:scroll;
+}
+.Practice5 a{
+  color: #266776;
+}
+*/
