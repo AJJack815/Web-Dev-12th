@@ -1,9 +1,10 @@
 .header{
-  background-color: #7C98B3;
+  background-color: #6978A8;
   margin: -8px;
   padding:2px;
-  border:solid 3px #536B78;
+  border:solid 3px #324481;
   color:#1B282F;
+  overflow:hidden;
 }
 
 .header h1{
@@ -16,9 +17,9 @@
   margin: -8px;
   padding: 0;
   overflow: hidden;
-  background-color: #7C98B3;
+  background-color: #6978A8;
   width:110%;
-  border:solid 3px #536B78;
+  border:solid 3px #324481;
 }
 
 .nav li {
@@ -31,25 +32,25 @@
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
-  color:#1B282F;
-  
+  color:black;
 }
 
 .nav  li a:hover {
-  background-color: #536B78;
-  color:white;
+  background-color: #266776;
+  color: white;
 }
 
 body{
-  background-color: #CEE5F2;
+  background-color: white;
 }
 .Intro{
   margin: 5px;
+  width: 50%;
   padding:5px;
   border: 3px solid #536B78;
   height:120px;
-  width:95%;
-  text-align:center;
+  overflow:scroll;
+  box-align:center;
 }
 .Intro h3{
   color:#1B282F;
@@ -68,36 +69,33 @@ body{
   padding:5px;
   color: #152E40;
   float:left;
+  overflow:scroll;
 }
 
 .SiteCritques a{
   color: #1B282F;
 }
-.SiteCritques a:hover{
-	color:red;
-}
 
-.RentAPet img{
-	float:right;
-	height:100px;
-	width:150px;
+img{
+  float:right;
+  height:100px;
+  width:200px;
+  aspect-ratio:auto;
 }
 .RentAPet{
-border: #536B78 solid 3px;
+  border: #536B78 solid 3px;
   height:300px;
   width:25%;
   margin:5px;
   padding:8px;
   color: #152E40;
   float:left;
+  overflow:scroll;
   /*
   background-color:#dde8ef;*/
 }
 .RentAPet a{
   color: #1B282F;
-}
-.RentAPet a:hover{
-	color:red;
 }
 
 
