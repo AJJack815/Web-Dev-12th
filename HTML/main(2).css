@@ -41,18 +41,34 @@
 
 body{
   background-color: white;
-}.Intro{
+}
+.thispage{
   margin: 5px;
   padding:5px;
   border: 3px solid #324481;
   height:120px;
-  width:95%;
+  width:45%;
   text-align:center;
+  float:left;
+  overflow:scroll;
 }
-.Intro h2{
+.thispage h2{
   color:#402AA1;
 }
-.RentAPet{
+.about{
+  margin: 5px;
+  padding:5px;
+  border: 3px solid #324481;
+  height:120px;
+  width:45%;
+  text-align:center;
+  float:left;
+  overflow:scroll;
+}
+.about h2{
+  color:#402AA1;
+}
+.one{
 border:solid 3px #324481;
  height:300px;
   width:25%;
@@ -63,7 +79,7 @@ border:solid 3px #324481;
   margin-left: 35px;
   overflow:scroll;
 }
-.SiteCritques {
+.two {
 border:solid 3px #324481;
  height:300px;
   width:25%;
@@ -74,11 +90,11 @@ border:solid 3px #324481;
   margin-left:35px;
   overflow:scroll;
 }
-.SiteCritques a{
+.two a{
   color:#266776;
 }
 
-.RentAPet a{
+.one a{
   color: #266776;
 }
 
@@ -87,19 +103,17 @@ border:solid 3px #324481;
 	width: 150px;
 	height:100px;
 }
-/* .Practice5{
+.three{
 border:solid 3px #324481;
-  height:200px;
+ height:300px;
   width:25%;
   margin:5px;
   padding:8px;
   color: #152E40;
-  float:right;
-  margin-right:35px;
-  margin-left:-200px;
+  float:left;
+  margin-left:35px;
   overflow:scroll;
 }
-.Practice5 a{
+.three a{
   color: #266776;
 }
-*/
