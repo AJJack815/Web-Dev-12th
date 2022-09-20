@@ -74,6 +74,21 @@ border:solid 3px #324481;
 .Practice4A a{
   color: #266776;
 }
+.Practice4C{
+  border:solid 3px #324481;
+    height:200px;
+    width:25%;
+    margin:5px;
+    padding:8px;
+    color: #152E40;
+    float:left;
+    margin-right:35px;
+    margin-left:35px;
+    overflow:scroll;
+  }
+  .Practice4C a{
+    color: #266776;
+  }
 .Practice5{
 border:solid 3px #324481;
   height:200px;
@@ -81,11 +96,25 @@ border:solid 3px #324481;
   margin:5px;
   padding:8px;
   color: #152E40;
-  float:right;
+  float:left;
   margin-right:35px;
-  margin-left:-75px;
+  margin-left:35px;
   overflow:scroll;
 }
 .Practice5 a{
   color: #266776;
 }
+.Practice6{
+  border:solid 3px #324481;
+    height:200px;
+    width:25%;
+    margin:5px;
+    padding:8px;
+    color: #152E40;
+    float:left;
+    margin-right: 35px;
+    overflow:scroll;
+  }
+  .Practice6 a{
+    color: #266776;
+  }
