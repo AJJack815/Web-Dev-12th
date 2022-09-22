@@ -18,8 +18,8 @@
   padding: 0;
   overflow: hidden;
   background-color: #7563CA;
-  width:110%;
-  border:solid 3px #324481;
+  width: 110%;
+  border: solid 3px #324481;
 }
 
 .nav li {
@@ -28,77 +28,91 @@
 
 .nav li a {
   display: block;
-  color:white;
+  color: white;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
 }
 
-.nav  li a:hover {
+.nav li a:hover {
   background-color: #266776;
   color: white;
 }
 
-body{
+body {
   background-color: white;
-}.Intro{
+}
+
+.Intro {
   margin: 5px;
-  padding:5px;
+  padding: 5px;
   border: 3px solid #324481;
-  height:120px;
-  width:95%;
-  text-align:center;
+  height: 120px;
+  width: 95%;
+  text-align: center;
 }
-.Intro h2{
-  color:#402AA1;
+
+@font-face {
+  font-family: 'Maybe-Next';
+  src: url('Maybe\ Next.otf');
+  src: local('Maybe-Next'), url('Maybe-Next.ttf') format('truetype');
 }
-.RentAPet{
-border:solid 3px #324481;
- height:300px;
-  width:25%;
-  margin:5px;
-  padding:8px;
+
+.Intro h2 {
+  color: #402AA1;
+  font-family: "Maybe-Next", Arial;
+}
+
+.RentAPet {
+  border: solid 3px #324481;
+  height: 300px;
+  width: 25%;
+  margin: 5px;
+  padding: 8px;
   color: #152E40;
-  float:left;
+  float: left;
   margin-left: 35px;
-  overflow:scroll;
+  overflow: scroll;
 }
+
 .SiteCritques {
-border:solid 3px #324481;
- height:300px;
-  width:25%;
-  margin:5px;
-  padding:8px;
+  border: solid 3px #324481;
+  height: 300px;
+  width: 25%;
+  margin: 5px;
+  padding: 8px;
   color: #152E40;
-  float:left;
-  margin-left:35px;
-  overflow:scroll;
-}
-.SiteCritques a{
-  color:#266776;
+  float: left;
+  margin-left: 35px;
+  overflow: scroll;
 }
 
-.RentAPet a{
+.SiteCritques a {
   color: #266776;
 }
 
-.RentAPet img{
-	float:right;
-	width: 150px;
-	height:100px;
-}
-.Project3{
-border:solid 3px #324481;
-  height:200px;
-  width:25%;
-  margin:5px;
-  padding:8px;
-  color: #152E40;
-  float:right;
-  margin-right:35px;
-  margin-left:-200px;
-  overflow:scroll;
-}
-.Project3 a{
+.RentAPet a {
   color: #266776;
 }
+
+.RentAPet img {
+  float: right;
+  width: 150px;
+  height: 100px;
+}
+
+.Project3 {
+  border: solid 3px #324481;
+  height: 200px;
+  width: 25%;
+  margin: 5px;
+  padding: 8px;
+  color: #152E40;
+  float: right;
+  margin-right: 35px;
+  margin-left: -200px;
+  overflow: scroll;
+}
+
+.Project3 a {
+  color: #266776;}
