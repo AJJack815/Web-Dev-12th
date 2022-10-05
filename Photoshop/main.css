@@ -1,14 +1,14 @@
 .header{
-  background-color: #7C98B3;
+  background-color: #5945B2;
   margin: -8px;
   padding:2px;
-  border:solid 3px #536B78;
-  color:#1B282F;
+  border:solid 3px #402AA1;
+  color:White;
+  overflow:hidden;
 }
 
 .header h1{
   text-align: center;
-  color:
 }
 
 
@@ -17,9 +17,9 @@
   margin: -8px;
   padding: 0;
   overflow: hidden;
-  background-color: #7C98B3;
-  width:110%;
-  border:solid 3px #536B78;
+  background-color: #7563CA;
+  width: 110%;
+  border: solid 3px #324481;
 }
 
 .nav li {
@@ -28,16 +28,135 @@
 
 .nav li a {
   display: block;
-  color: black;
+  color: white;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
-  color:#1B282F;
 }
 
-.nav  li a:hover {
-  background-color: #536B78;
+.nav li a:hover {
+  background-color: #266776;
+  color: white;
 }
-body{
-  background-color: #CEE5F2;
+
+body {
+  background-color: white;
 }
+
+.Intro {
+  margin: 5px;
+  padding: 5px;
+  border: 3px solid #324481;
+  height: 120px;
+  width: 95%;
+  text-align: center;
+}
+
+@font-face {
+  font-family: 'Maybe-Next';
+  src: url('Maybe\ Next.otf');
+  src: local('Maybe-Next'), url('Maybe-Next.ttf') format('truetype');
+}
+
+.Intro h2 {
+  color: #402AA1;
+  font-family: "Maybe-Next", Arial;
+}
+
+
+
+.Practice1 {
+  border: solid 3px #324481;
+  height: 200px;
+  width: 25%;
+  margin: 5px;
+  padding: 8px;
+  color: #152E40;
+  float: right;
+  margin-right: 35px;
+  margin-left: -200px;
+  overflow: scroll;
+}
+
+.Practice1 a {
+  color: #266776;}
+
+  .Practice2 {
+    border: solid 3px #324481;
+    height: 200px;
+    width: 25%;
+    margin: 5px;
+    padding: 8px;
+    color: #152E40;
+    float: right;
+    margin-right: 35px;
+    margin-left: -200px;
+    overflow: scroll;
+  }
+  
+  .Practice2 a {
+    color: #266776;}
+
+    .Practice3 {
+      border: solid 3px #324481;
+      height: 200px;
+      width: 25%;
+      margin: 5px;
+      padding: 8px;
+      color: #152E40;
+      float: right;
+      margin-right: 35px;
+      margin-left: -200px;
+      overflow: scroll;
+    }
+    
+    .Practice3 a {
+      color: #266776;}
+
+      .Practice4 {
+        border: solid 3px #324481;
+        height: 200px;
+        width: 25%;
+        margin: 5px;
+        padding: 8px;
+        color: #152E40;
+        float: right;
+        margin-right: 35px;
+        margin-left: -200px;
+        overflow: scroll;
+      }
+      
+      .Practice4 a {
+        color: #266776;}
+
+        .Practice5 {
+          border: solid 3px #324481;
+          height: 200px;
+          width: 25%;
+          margin: 5px;
+          padding: 8px;
+          color: #152E40;
+          float: right;
+          margin-right: 35px;
+          margin-left: -200px;
+          overflow: scroll;
+        }
+        
+        .Practice5 a {
+          color: #266776;}
+
+          .Practice6 {
+            border: solid 3px #324481;
+            height: 200px;
+            width: 25%;
+            margin: 5px;
+            padding: 8px;
+            color: #152E40;
+            float: right;
+            margin-right: 35px;
+            margin-left: -200px;
+            overflow: scroll;
+          }
+          
+          .Practice6 a {
+            color: #266776;}
