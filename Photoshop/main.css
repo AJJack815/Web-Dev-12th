@@ -72,9 +72,7 @@ body {
   margin: 5px;
   padding: 8px;
   color: #152E40;
-  float: right;
-  margin-right: 35px;
-  margin-left: -200px;
+  float: left;
   overflow: scroll;
 }
 
@@ -88,9 +86,7 @@ body {
     margin: 5px;
     padding: 8px;
     color: #152E40;
-    float: right;
-    margin-right: 35px;
-    margin-left: -200px;
+    float: left;
     overflow: scroll;
   }
   
@@ -105,14 +101,12 @@ body {
       padding: 8px;
       color: #152E40;
       float: right;
-      margin-right: 35px;
-      margin-left: -200px;
       overflow: scroll;
     }
     
     .Practice3 a {
       color: #266776;}
-
+/*
       .Practice4 {
         border: solid 3px #324481;
         height: 200px;
@@ -121,8 +115,6 @@ body {
         padding: 8px;
         color: #152E40;
         float: right;
-        margin-right: 35px;
-        margin-left: -200px;
         overflow: scroll;
       }
       
@@ -137,8 +129,6 @@ body {
           padding: 8px;
           color: #152E40;
           float: right;
-          margin-right: 35px;
-          margin-left: -200px;
           overflow: scroll;
         }
         
@@ -160,3 +150,4 @@ body {
           
           .Practice6 a {
             color: #266776;}
+            */
