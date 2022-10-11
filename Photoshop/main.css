@@ -62,46 +62,55 @@ body {
   color: #402AA1;
   font-family: "Maybe-Next", Arial;
 }
-
-
-.left {
-  border: solid 3px #324481;
-  height: 200px;
-  width: 25%;
-  margin: 5px;
-  padding: 8px;
-  color: #152E40;
-  float: left;
-  overflow: scroll;
+.inclass{
+  border:solid 5px #324481;
 }
 
-.left a {
-  color: #266776;}
-
-.middle {
-    border: solid 3px #324481;
-    height: 200px;
-    width: 25%;
-    margin: 5px;
-    padding: 8px;
+.left{
+  border:solid 3px #324481;
+    height:200px;
+    width:25%;
+    margin:5px;
+    padding:8px;
     color: #152E40;
-    float: left;
-    overflow: scroll;
+    float:left;
+    margin-left: 35px;
+    overflow:scroll;
+  }
+
+  .left a{
+    color: #266776;
+  }
+
+  .middle{
+  border:solid 3px #324481;
+    height:200px;
+    width:25%;
+    margin:5px;
+    padding:8px;
+    color: #152E40;
+    float:left;
+    margin-left:35px;
+    overflow:scroll;
+  }
+
+  .middle a{
+    color:#266776;
   }
   
-  .middle a {
-    color: #266776;}
-
-    .right {
-      border: solid 3px #324481;
-      height: 200px;
-      width: 25%;
-      margin: 5px;
-      padding: 8px;
+  
+  .right{
+    border:solid 3px #324481;
+      height:200px;
+      width:25%;
+      margin:5px;
+      padding:8px;
       color: #152E40;
-      float: right;
-      overflow: scroll;
+      float:left;
+      margin-right:35px;
+      margin-left:35px;
+      overflow:scroll;
     }
-    
-    .right a {
-      color: #266776;}
+    .right a{
+      color: #266776;
+    }
