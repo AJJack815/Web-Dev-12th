@@ -120,7 +120,7 @@ body {
       .Practice4 a {
         color: #266776;}
       
-/*
+
         .Practice5 {
           border: solid 3px #324481;
           height: 200px;
@@ -128,13 +128,13 @@ body {
           margin: 5px;
           padding: 8px;
           color: #152E40;
-          float: right;
+          float:left;
           overflow: scroll;
         }
         
         .Practice5 a {
           color: #266776;}
-
+/*
           .Practice6 {
             border: solid 3px #324481;
             height: 200px;
