@@ -64,8 +64,7 @@ body {
 }
 
 
-
-.Practice1 {
+.left {
   border: solid 3px #324481;
   height: 200px;
   width: 25%;
@@ -76,10 +75,10 @@ body {
   overflow: scroll;
 }
 
-.Practice1 a {
+.left a {
   color: #266776;}
 
-  .Practice2 {
+.middle {
     border: solid 3px #324481;
     height: 200px;
     width: 25%;
@@ -90,10 +89,10 @@ body {
     overflow: scroll;
   }
   
-  .Practice2 a {
+  .middle a {
     color: #266776;}
 
-    .Practice3 {
+    .right {
       border: solid 3px #324481;
       height: 200px;
       width: 25%;
@@ -104,50 +103,5 @@ body {
       overflow: scroll;
     }
     
-    .Practice3 a {
+    .right a {
       color: #266776;}
-      .Practice4 {
-        border: solid 3px #324481;
-        height: 200px;
-        width: 25%;
-        margin: 5px;
-        padding: 8px;
-        color: #152E40;
-        float: right;
-        overflow: scroll;
-      }
-      
-      .Practice4 a {
-        color: #266776;}
-      
-
-        .Practice5 {
-          border: solid 3px #324481;
-          height: 200px;
-          width: 25%;
-          margin: 5px;
-          padding: 8px;
-          color: #152E40;
-          float:left;
-          overflow: scroll;
-        }
-        
-        .Practice5 a {
-          color: #266776;}
-/*
-          .Practice6 {
-            border: solid 3px #324481;
-            height: 200px;
-            width: 25%;
-            margin: 5px;
-            padding: 8px;
-            color: #152E40;
-            float: right;
-            margin-right: 35px;
-            margin-left: -200px;
-            overflow: scroll;
-          }
-          
-          .Practice6 a {
-            color: #266776;}
-            */
