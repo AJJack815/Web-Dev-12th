@@ -72,8 +72,8 @@ body {
     padding:8px;
     color: #152E40;
     float:left;
-    margin-left: 35px;
     overflow:scroll;
+    margin:20px 0px 20px 35px;
   }
 
   .left a{
