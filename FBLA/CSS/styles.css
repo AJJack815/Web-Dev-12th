@@ -27,10 +27,9 @@
 .hero-section{
     width: 100%;
     height: calc(100vh - 120px);
-    background-image: url(../Images/Logos/logow-background.png);
-    background-size:cover;
-    background-repeat: none;
-    display:flex;
+    background-image: url('../Images/Logos/logow-background.png');
+    background-size: cover;
+    display: flex;
     justify-content: center;
     align-items: center;
 }
